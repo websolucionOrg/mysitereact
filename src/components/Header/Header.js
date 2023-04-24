@@ -1,17 +1,21 @@
 import React from 'react'
 import Link from 'next/link'
-import { IconTree } from "react-icons";
+import { GoBeaker } from "react-icons/go";
 
 const Header = () => {
   return (
-    <header>
+    <header className='header'>
         <div className='.container'>
-            <Link href="/" passHref >lOGO</Link>
+            <Link href="/" passHref > <GoBeaker /> </Link>
             <nav>
                <ul>
                 <li> <Link href="/" passHref >Home</Link> </li>
                 <li> <Link href="/" passHref >Sobre</Link> </li>
+                <li> <Link href="/" passHref >Contactos</Link> </li>
                </ul>
+               <div>
+                <Link href="/" passHref > Registrar</Link>
+               </div>
             </nav>
         </div>
     </header>
