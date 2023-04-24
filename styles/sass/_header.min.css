@@ -1,1 +1,1 @@
-.header{display:flex}
+.header{padding:2rem}.header .container{max-width:1024px;width:100%;margin:0 auto;display:flex;justify-content:space-between}.header .container nav,.header .container nav ul{display:flex;align-items:center;gap:2rem}.header .container nav ul a{font-size:1.6rem}.header .container .logo{font-size:2rem}

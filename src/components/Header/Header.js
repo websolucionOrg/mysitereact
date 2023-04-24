@@ -5,8 +5,8 @@ import { GoBeaker } from "react-icons/go";
 const Header = () => {
   return (
     <header className='header'>
-        <div className='.container'>
-            <Link href="/" passHref > <GoBeaker /> </Link>
+        <div className='container'>
+            <Link href="/" passHref className='logo' > <GoBeaker /> </Link>
             <nav>
                <ul>
                 <li> <Link href="/" passHref >Home</Link> </li>
