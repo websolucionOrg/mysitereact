@@ -4,9 +4,9 @@ export default function Home() {
   return (
     <>
       <HeadHtml titlePage="Home-Welcome" />
-      <main >
-       
-      </main>
+       <section className='start-homePage'>
+
+       </section>
     </>
   )
 }
