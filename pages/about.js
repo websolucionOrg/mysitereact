@@ -1,4 +1,4 @@
-import { HeadHtml } from "@/src/components/elements/Head"
+import { HeadHtml } from "@/src/components/elements/HeadH"
 
 const About  = () => {
   return (
