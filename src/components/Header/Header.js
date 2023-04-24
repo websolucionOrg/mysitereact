@@ -14,7 +14,7 @@ const Header = () => {
                 <li> <Link href="/" passHref >Contactos</Link> </li>
                </ul>
                <div>
-                <Link href="/" passHref > Registrar</Link>
+                <Link className='btn' href="/" passHref > Registrar</Link>
                </div>
             </nav>
         </div>
