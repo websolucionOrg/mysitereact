@@ -2,18 +2,10 @@ import React from 'react'
 import Link from 'next/link'
 import Image from 'next/image'
 
-export const HomePage = ({data}) => {
+export const AnimalsPage = ({data}) => {
   return (
-    <>   
-       <section className='starthomePage'>
-          <div className='content'>
-            <h1>O melhor para os nossos Pets</h1>
-            <p> O melhor laboratorio de medicina molecular do mundo </p>
-            <Link href="/" passHref className='btn' >Saber Mais </Link>
-          </div>
-       </section>
-
-       <section className='animaisTypes'>
+    <>
+       <section className='animaisTypes mt'>
           <div className='container'>
             {data.map((ev)=>(
               <Link href={`/animals/${ev.pet}`} passHref className='box' >
