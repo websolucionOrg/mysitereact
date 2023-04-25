@@ -4,15 +4,16 @@
     background-size: cover 
     background-position:  center
     display: flex
-    justify-content: center
+    justify-content: flex-end
     align-items: center
+    padding: 0 8%
 
 
     .content
-        width: 400px
-        transform: translate(16px,-22px)
+        width: 450px
+        transform: translateY(-19px,-22px)
         padding: 2rem 3rem
-        background: #00000047
+        // background: #00000047
         h1, p, a
             color: #fff
             margin-bottom: 1.6rem
@@ -20,9 +21,26 @@
             text-shadow: .1rem .1rem .1rem #111
             letter-spacing: 0.3rem
         h1
-            font-size: 6rem
-            line-height: .9
+            font-size: 5rem
+            line-height: 1.1
             
         p
             font-size: 1.7rem
+
+.animaisTypes
+    padding: 2rem 6%
+    img
+        width: 100%
+        height: 100%
+    .container
+        display: grid
+        grid-template-columns: repeat(3,0.78fr)
+        gap: 1.4rem
+        .box
+            position: relative
+            h2
+                position: absolute
+                top: 4%
+                left: 4%
+                font-size: 2rem
            
