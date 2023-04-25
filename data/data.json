@@ -15,6 +15,22 @@
             "pet": "fixes",
             "img": "/../public/fixes/fixe-1.jpg",
             "title": "Os Nossos Peixes"
-        }
+        },
+        {
+            "pet": "mauses",
+            "img": "/../public/mauses/mause-1.jpg",
+            "title": "Os Nossos Ratos"
+            },
+            {
+            "pet": "coelhos",
+            "img": "/../public/coelhos/coelho-0.jpg",
+            "title": "Os Nossos Coelhos"
+            },
+    
+            {
+                "pet": "passaros",
+                "img": "/../public/passaros/passaro-0.jpg",
+                "title": "As Nossas Aves"
+            }
 ]
 }
