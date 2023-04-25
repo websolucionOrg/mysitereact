@@ -2,7 +2,7 @@
     "pets":[
         {
         "pet": "dogs",
-        "img": "/../public/dogs/dog-1.jpg",
+        "img": "/../public/dogs/dog-0.jpg",
         "title": "Os Nossos Cães"
         },
         {
