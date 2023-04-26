@@ -34,6 +34,11 @@
         }
 ],
     "allPets":[
-        
+            {"id": "dogs",
+            "pet": "PitBull"
+        },
+        {"id": "cats",
+            "pet": "PitBull"
+        }
     ]
 }
