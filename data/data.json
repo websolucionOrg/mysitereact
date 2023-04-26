@@ -62,7 +62,7 @@
     {"id": "dog-5",
     "tyPet": "dogs",
     "titlePet": "Pastor Alemão",
-    "desc": "Os coes sao os melhores amigos do homem",
+    "desc": "Esta raça é conhecida por sua inteligência e habilidade para trabalhar, tornando-os excelentes cães de serviço e de trabalho. Eles são corajosos, protetores e leais, mas também podem ser gentis e carinhosos com suas família",
     "image": "/../public/dogs/dog-5.jpg"
     },
 
@@ -74,16 +74,43 @@
     },
         {"id": "cats-1",
         "tyPet": "cats",
-            "titlePet": "PitBull",
+            "titlePet": "British Shorthair",
             "desc": "Os gatos sao os melhores amigos do homem",
-            "image": "/../public/cates/cat-1.jpg"
+            "image": "/../public/cates/cat-7.jpg"
         },
 
         {"id": "cats-1",
         "tyPet": "cats",
-            "titlePet": "PitBull",
+            "titlePet": "Sphynx",
             "desc": "Os gatos sao os melhores amigos do homem",
             "image": "/../public/cates/cat-2.jpg"
+        }
+        ,
+
+        {"id": "cats-1",
+        "tyPet": "cats",
+            "titlePet": "Siamese",
+            "desc": "Os gatos sao os melhores amigos do homem",
+            "image": "/../public/cates/cat-3.jpg"
+        },
+        {"id": "cats-1",
+        "tyPet": "cats",
+            "titlePet": "Gato Persa",
+            "desc": "Os gatos sao os melhores amigos do homem",
+            "image": "/../public/cates/cat-4.jpg"
+        },
+        {"id": "cats-1",
+        "tyPet": "cats",
+            "titlePet": "Maine Coon",
+            "desc": "Os gatos sao os melhores amigos do homem",
+            "image": "/../public/cates/cat-5.jpg"
+        }
+        ,
+        {"id": "cats-1",
+        "tyPet": "cats",
+            "titlePet": "Scottish Fold",
+            "desc": "Os gatos sao os melhores amigos do homem",
+            "image": "/../public/cates/cat-6.jpg"
         }
     ]
 }
