@@ -228,6 +228,19 @@
             "desc": "Os gatos sao os melhores amigos do homem",
             "image": "/../public/coelhos/coelho-6.jpg"
         }
+        ,
+        {"id": "passaro-1",
+        "tyPet": "coelhos",
+            "titlePet": "Peixe palhaço",
+            "desc": "Os gatos sao os melhores amigos do homem",
+            "image": "/../public/passaros/passaro-1.jpg"
+        }        ,
+        {"id": "passaro-2",
+        "tyPet": "coelhos",
+            "titlePet": "Peixe palhaço",
+            "desc": "Os gatos sao os melhores amigos do homem",
+            "image": "/../public/passaros/passaro-1.jpg"
+        }
 
     ]
 }

@@ -15,7 +15,13 @@ const TypeAnimals = ({data}) => {
       <Link href={`/animals/${ev.tyPet}/${ev.id}`} className='card' > 
         <h2>{ev.titlePet}</h2>
           <Image src={ev.image} alt={ev.id} width={400} height={400} />
-         <div className='contIcon' ><GoEye className='view' /></div> 
+         <div className='contIcon' >
+          <div className='view'>
+            <GoEye className='ege' />
+            <span>Visualizar</span>
+          </div>
+          
+          </div> 
       </Link>
 
       ))}
