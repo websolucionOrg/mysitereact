@@ -212,19 +212,19 @@
         ,
         {"id": "coelho-4",
         "tyPet": "coelhos",
-            "titlePet": "Peixe palhaço",
+            "titlePet": "Coelho Irlandes",
             "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta impedit voluptas asperiores doloribus blanditiis illum, recusandae ea inventore itaque esse, aliquid facere architecto natus nobis quod molestiae cupiditate! Non autem libero facere possimus in ipsam quisquam asperiores repellendus incidunt dignissimos.",
             "image": "/../public/coelhos/coelho-4.jpg"
         }        ,
         {"id": "coelho-5",
         "tyPet": "coelhos",
-            "titlePet": "Peixe palhaço",
+            "titlePet": "Coelho Chines",
             "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta impedit voluptas asperiores doloribus blanditiis illum, recusandae ea inventore itaque esse, aliquid facere architecto natus nobis quod molestiae cupiditate! Non autem libero facere possimus in ipsam quisquam asperiores repellendus incidunt dignissimos.",
             "image": "/../public/coelhos/coelho-5.jpg"
         }        ,
         {"id": "coelho-6",
         "tyPet": "coelhos",
-            "titlePet": "Peixe palhaço",
+            "titlePet": "Coelho dos Alpes",
             "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta impedit voluptas asperiores doloribus blanditiis illum, recusandae ea inventore itaque esse, aliquid facere architecto natus nobis quod molestiae cupiditate! Non autem libero facere possimus in ipsam quisquam asperiores repellendus incidunt dignissimos.",
             "image": "/../public/coelhos/coelho-6.jpg"
         }
