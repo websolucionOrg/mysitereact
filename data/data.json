@@ -75,14 +75,14 @@
         {"id": "cats-1",
         "tyPet": "cats",
             "titlePet": "British Shorthair",
-            "desc": "Os gatos sao os melhores amigos do homem",
+            "desc": "O British Shorthair é uma raça de gato originária do Reino Unido que se caracteriza por sua pelagem curta e densa, cabeça arredondada e olhos grandes e redondos1. É uma raça muito popular em todo o mundo devido a sua personalidade tranquila e afetuosa. São gatos muito independentes e calmos, mas também gostam de brincar e interagir com seus donos.",
             "image": "/../public/cates/cat-7.jpg"
         },
 
         {"id": "cats-2",
         "tyPet": "cats",
             "titlePet": "Sphynx",
-            "desc": "Os gatos sao os melhores amigos do homem",
+            "desc": "O sphynx é uma raça muito dócil, pronto para receber e dar muito carinho. O gato sem pelo requer mais atenção do que a maioria das raças de gatos, afinal, ele é muito apegado à sua família humana. Mas não é só isso, a sua pele também requer cuidados. A pele do gato sphynx costuma ficar oleosa com muita facilidade.",
             "image": "/../public/cates/cat-2.jpg"
         }
         ,
@@ -90,13 +90,13 @@
         {"id": "cats-3",
         "tyPet": "cats",
             "titlePet": "Siamese",
-            "desc": "Os gatos sao os melhores amigos do homem",
+            "desc": "O gato siamês é uma raça de gato oriental que se caracteriza por seu corpo elegante e esbelto, sua cabeça marcadamente triangular e seus olhos azuis intensos1. É uma raça muito popular em todo o mundo devido a seu pelo suave e sedoso e sua personalidade carinhosa e leal. São gatos muito expressivos e leais a seus donos, com quem querem estar e pedir atenção.",
             "image": "/../public/cates/cat-3.jpg"
         },
         {"id": "cats-4",
         "tyPet": "cats",
             "titlePet": "Gato Persa",
-            "desc": "Os gatos sao os melhores amigos do homem",
+            "desc": "O Gato Persa é uma raça de gato originária do Irã que se caracteriza por sua pelagem longa e densa, cabeça arredondada e olhos grandes e redondos. É uma raça muito popular em todo o mundo devido a sua personalidade tranquila e afetuosa . São gatos muito independentes e calmos, mas também gostam de brincar e interagir com seus donos.",
             "image": "/../public/cates/cat-4.jpg"
         },
         {"id": "cats-5",
@@ -109,7 +109,7 @@
         {"id": "cats-6",
         "tyPet": "cats",
             "titlePet": "Scottish Fold",
-            "desc": "Os gatos sao os melhores amigos do homem",
+            "desc": "O Scottish Fold é uma raça de gato originária da Escócia que se caracteriza por suas orelhas dobradas para a frente e para baixo. É uma raça muito popular em todo o mundo devido a sua personalidade tranquila e afetuosa . São gatos muito independentes e calmos, mas também gostam de brincar e interagir com seus donos.",
             "image": "/../public/cates/cat-6.jpg"
         } ,
         {"id": "fixe-1",
