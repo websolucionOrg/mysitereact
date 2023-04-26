@@ -37,13 +37,13 @@
             {"id": "dog-1",
             "tyPet": "dogs",
             "titlePet": "Pit Bull",
-            "desc": "Os coes sao os melhores amigos do homem",
+            "desc": "O Pitbull é uma raça de cães que inclui várias subespécies, incluindo o American Pit Bull Terrier, o Staffordshire Bull Terrier, o American Staffordshire Terrier, entre outros.",
             "image": "/../public/dogs/dog-0.jpg"
         },
         {"id": "dog-2",
         "tyPet": "dogs",
         "titlePet": "Bull Dog",
-        "desc": "Os coes sao os melhores amigos do homem",
+        "desc": "Esses cães têm um temperamento descontraído e adoram passar tempo com seus donos. Eles são conhecidos por serem muito sociáveis e carinhosos, mas também podem ser teimosos em sua personalidade.",
         "image": "/../public/dogs/dog-2.jpg"
     },
         {"id": "dog-3",
@@ -56,20 +56,20 @@
     {"id": "dog-4",
     "tyPet": "dogs",
     "titlePet": "Rottweiler",
-    "desc": "Os coes sao os melhores amigos do homem",
+    "desc": "Esta é uma raça de cão grande e poderosa, conhecida por sua lealdade e inteligência. Eles são excelentes cães de guarda, mas também podem ser gentis e carinhosos com suas famílias.",
     "image": "/../public/dogs/dog-4.jpg"
     },
     {"id": "dog-5",
     "tyPet": "dogs",
     "titlePet": "Pastor Alemão",
-    "desc": "Esta raça é conhecida por sua inteligência e habilidade para trabalhar, tornando-os excelentes cães de serviço e de trabalho. Eles são corajosos, protetores e leais, mas também podem ser gentis e carinhosos com suas família",
+    "desc": "Esta raça é conhecida por sua inteligência e habilidade para trabalhar, tornando-os excelentes cães de serviço e de trabalho. Eles são corajosos, protetores e leais, mas também podem ser gentis e carinhosos com suas família.",
     "image": "/../public/dogs/dog-5.jpg"
     },
 
     {"id": "dog-6",
     "tyPet": "dogs",
     "titlePet": "Chihuahua",
-    "desc": "Os coes sao os melhores amigos do homem",
+    "desc": "Essa raça é conhecida por seu pequeno tamanho e personalidade animada. Eles são muito protetores de seus donos e podem ser teimosos em sua personalidade.",
     "image": "/../public/dogs/dog-6.jpg"
     },
         {"id": "cats-1",
@@ -79,7 +79,7 @@
             "image": "/../public/cates/cat-7.jpg"
         },
 
-        {"id": "cats-1",
+        {"id": "cats-2",
         "tyPet": "cats",
             "titlePet": "Sphynx",
             "desc": "Os gatos sao os melhores amigos do homem",
@@ -87,26 +87,26 @@
         }
         ,
 
-        {"id": "cats-1",
+        {"id": "cats-3",
         "tyPet": "cats",
             "titlePet": "Siamese",
             "desc": "Os gatos sao os melhores amigos do homem",
             "image": "/../public/cates/cat-3.jpg"
         },
-        {"id": "cats-1",
+        {"id": "cats-4",
         "tyPet": "cats",
             "titlePet": "Gato Persa",
             "desc": "Os gatos sao os melhores amigos do homem",
             "image": "/../public/cates/cat-4.jpg"
         },
-        {"id": "cats-1",
+        {"id": "cats-5",
         "tyPet": "cats",
             "titlePet": "Maine Coon",
             "desc": "Os gatos sao os melhores amigos do homem",
             "image": "/../public/cates/cat-5.jpg"
         }
         ,
-        {"id": "cats-1",
+        {"id": "cats-6",
         "tyPet": "cats",
             "titlePet": "Scottish Fold",
             "desc": "Os gatos sao os melhores amigos do homem",
