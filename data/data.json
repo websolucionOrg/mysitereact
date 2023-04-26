@@ -34,11 +34,36 @@
         }
 ],
     "allPets":[
-            {"id": "dogs",
-            "pet": "PitBull"
+            {"id": "dog-1",
+            "tyPet": "dogs",
+            "pet": "PitBull",
+            "desc": "Os coes sao os melhores amigos do homem",
+            "image": "/../public/dogs/dog-0.jpg"
         },
-        {"id": "cats",
-            "pet": "PitBull"
+        {"id": "dog-2",
+        "tyPet": "dogs",
+        "pet": "PitBull",
+        "desc": "Os coes sao os melhores amigos do homem",
+        "image": "/../public/dogs/dog-2.jpg"
+    },
+        {"id": "dog-3",
+        "tyPet": "dogs",
+        "pet": "PitBull",
+        "desc": "Os coes sao os melhores amigos do homem",
+        "image": "/../public/dogs/dog-3.jpg"
+    },
+        {"id": "cats-1",
+        "tyPet": "cats",
+            "pet": "PitBull",
+            "desc": "Os gatos sao os melhores amigos do homem",
+            "image": "/../public/cates/cat-1.jpg"
+        },
+
+        {"id": "cats-1",
+        "tyPet": "cats",
+            "pet": "PitBull",
+            "desc": "Os gatos sao os melhores amigos do homem",
+            "image": "/../public/cates/cat-2.jpg"
         }
     ]
 }
