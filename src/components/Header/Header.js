@@ -1,12 +1,12 @@
 import React from 'react'
 import Link from 'next/link'
-import { GoBeaker } from "react-icons/go";
+import { GiSittingDog } from "react-icons/gi";
 
 const Header = () => {
   return (
     <header className='header'>
         <div className='container'>
-            <Link href="/" passHref className='logo' > <GoBeaker /> </Link>
+            <Link href="/" passHref className='logo' > <GiSittingDog /> </Link>
             <nav>
                <ul>
                 <li> <Link href="/" passHref >Home</Link> </li>
