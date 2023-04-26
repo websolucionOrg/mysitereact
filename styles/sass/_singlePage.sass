@@ -1,3 +1,4 @@
+@use 'function'
 .singlePage
     .container
         max-width: 1005px
@@ -6,6 +7,8 @@
         display: grid
         gap: 1.7rem
         grid-template-columns: 3fr 2fr
+        @include function.responsive(789px)
+            grid-template-columns: 100%
         .img
             height: 440px
         .desc

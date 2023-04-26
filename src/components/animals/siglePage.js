@@ -10,7 +10,7 @@ const SingleAnimal = ({ data }) => {
   return (
     <>
     <HeadHtml  titlePage={`${data.titlePet}`} />
-    <section className='singlePage mt' >
+    <section className='singlePage mt h700' >
       <div className='typeNav mx-w'>
           <Link href="/animals/dogs" passHref ><GiSittingDog /> Cães  </Link>
           <Link href="/animals/cats" passHref ><GiCat /> Gatos </Link>

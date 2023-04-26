@@ -1,6 +1,6 @@
 import React from 'react'
 import Link from 'next/link'
-import { FaGithub, FaFacebookF,FaGitlab, FaPinterest } from "react-icons/fa";
+import { FaGithub, FaFacebookF,FaGitlab, FaPinterest, FaLinkedin } from "react-icons/fa";
 
 const Footer = () => {
   return (
@@ -11,6 +11,8 @@ const Footer = () => {
           <Link href="https://github.com"> <FaFacebookF /> </Link>
           <Link href="https://github.com"> <FaGitlab /> </Link>
           <Link href="https://github.com"> <FaPinterest /> </Link>
+          <Link href="https://github.com"> <FaLinkedin /> </Link>
+
 
         </div>
     </footer>
