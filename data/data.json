@@ -121,7 +121,7 @@
         ,
         {"id": "fixe-2",
         "tyPet": "fixes",
-            "titlePet": "Peixe palhaço",
+            "titlePet": "Nemo",
             "desc": "Os gatos sao os melhores amigos do homem",
             "image": "/../public/fixes/fixe-1.jpg"
         }
@@ -230,16 +230,40 @@
         }
         ,
         {"id": "passaro-1",
-        "tyPet": "coelhos",
-            "titlePet": "Peixe palhaço",
+        "tyPet": "passaros",
+            "titlePet": "Beja-flor",
             "desc": "Os gatos sao os melhores amigos do homem",
             "image": "/../public/passaros/passaro-1.jpg"
         }        ,
         {"id": "passaro-2",
-        "tyPet": "coelhos",
-            "titlePet": "Peixe palhaço",
+        "tyPet": "passaros",
+            "titlePet": "Papagayo",
             "desc": "Os gatos sao os melhores amigos do homem",
-            "image": "/../public/passaros/passaro-1.jpg"
+            "image": "/../public/passaros/passaro-0.jpg"
+        }  ,
+        {"id": "passaro-3",
+        "tyPet": "passaros",
+            "titlePet": "Papagayo",
+            "desc": "Os gatos sao os melhores amigos do homem",
+            "image": "/../public/passaros/passaro-3.jpg"
+        }        ,
+        {"id": "passaro-4",
+        "tyPet": "passaros",
+            "titlePet": "Pardal",
+            "desc": "Os gatos sao os melhores amigos do homem",
+            "image": "/../public/passaros/passaro-4.jpg"
+        }        ,
+        {"id": "passaro-5",
+        "tyPet": "passaros",
+            "titlePet": "Papagayo",
+            "desc": "Os gatos sao os melhores amigos do homem",
+            "image": "/../public/passaros/passaro-5.jpg"
+        }        ,
+        {"id": "passaro-6",
+        "tyPet": "passaros",
+            "titlePet": "Mocho",
+            "desc": "Os gatos sao os melhores amigos do homem",
+            "image": "/../public/passaros/passaro-6.jpg"
         }
 
     ]
