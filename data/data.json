@@ -53,12 +53,25 @@
         "image": "/../public/dogs/dog-3.jpg"
     },
 
-    {"id": "dog-3",
+    {"id": "dog-4",
     "tyPet": "dogs",
     "titlePet": "Rottweiler",
     "desc": "Os coes sao os melhores amigos do homem",
     "image": "/../public/dogs/dog-4.jpg"
-},
+    },
+    {"id": "dog-5",
+    "tyPet": "dogs",
+    "titlePet": "Pastor Alemão",
+    "desc": "Os coes sao os melhores amigos do homem",
+    "image": "/../public/dogs/dog-5.jpg"
+    },
+
+    {"id": "dog-6",
+    "tyPet": "dogs",
+    "titlePet": "Chihuahua",
+    "desc": "Os coes sao os melhores amigos do homem",
+    "image": "/../public/dogs/dog-6.jpg"
+    },
         {"id": "cats-1",
         "tyPet": "cats",
             "titlePet": "PitBull",
