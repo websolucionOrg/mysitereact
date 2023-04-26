@@ -1,33 +1,11 @@
 import React from 'react'
-import Link from 'next/link'
-import { HeadHtml } from '@/src/components/elements/HeadH'
-import Image from 'next/image'
-import { GoEye } from "react-icons/go";
+import AnimalIndex from '@/src/components/animals/AnimalIndex'
+
+
 const TypeAnimals = ({data}) => {
   return (
    <>
-   <HeadHtml titlePage="Animais 1" />
-   <section className='animaisTypes mt'>
-      <div className='container'>
-    
-      {data.map((ev)=>(
-        
-      <Link href={`/animals/${ev.tyPet}/${ev.id}`} className='card' > 
-        <h2>{ev.titlePet}</h2>
-          <Image src={ev.image} alt={ev.id} width={400} height={400} />
-         <div className='contIcon' >
-          <div className='view'>
-            <GoEye className='ege' />
-            <span>Visualizar</span>
-          </div>
-          
-          </div> 
-      </Link>
-
-      ))}
-    
-      </div>
-    </section>
+    <AnimalIndex data={data} />
     </>
   )
 }

@@ -1,3 +1,4 @@
+@use 'function'
 .starthomePage
     height: 80vh
     background: url(../../public/dog-2.png) no-repeat
@@ -35,8 +36,14 @@
         border-radius: 1.3rem
     .container
         display: grid
-        grid-template-columns: repeat(3,0.78fr)
         gap: 1.4rem
+        grid-template-columns: repeat(3,0.78fr)
+        @include function.responsive(878px)
+            grid-template-columns: repeat(2,0.78fr)
+        @include function.responsive(689px)
+            grid-template-columns: repeat(1,100%)
+            
+        
         .box
             position: relative
             height: 400px
@@ -45,7 +52,7 @@
                 position: absolute
                 top: 4%
                 left: 4%
-                font-size: 2rem
+                font-size: 1.7rem
                 color: #111
                 padding: 0.7rem 1.3rem
                 background: #C18C00
@@ -102,4 +109,14 @@
     
    
 
-           
+.typeNav
+    display: flex
+    align-items: center
+    gap: 1.5rem
+    margin-bottom: 1.4rem
+    flex-wrap: wrap
+    a
+        padding: 0.8rem 1.4rem
+        background: #C18C00
+        font-size: 1.6rem
+        color: #111

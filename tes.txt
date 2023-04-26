@@ -1,0 +1,29 @@
+import React from 'react'
+import { GiCat, GiSittingDog, GiTropicalFish,GiRabbit,GiSeatedMouse,GiHummingbird } from "react-icons/gi";
+import Link from 'next/link'
+import Image from 'next/image'
+
+export const siglePage = ({data}) => {
+  return (
+    <>
+    <section className='singlePage mt' >
+      <div className='typeNav mx-w'>
+          <Link href="/animals/dogs" passHref ><GiSittingDog /> Cães  </Link>
+          <Link href="/animals/cats" passHref ><GiCat /> Gatos </Link>
+          <Link href="/animals/fixes" passHref ><GiTropicalFish /> Peixes </Link>
+          <Link href="/animals/coelhos" passHref ><GiRabbit /> Coelhos </Link>
+          <Link href="/animals/mauses" passHref ><GiSeatedMouse /> Ratos </Link>
+          <Link href="/animals/passaros" passHref ><GiHummingbird /> Aves </Link>
+      </div>
+      <div className='container'>
+          <Image className='img' src={data.image} width={400} height={400} alt='im' />
+          <div className='desc'>
+            <h2> {data.titlePet} </h2>
+            <p> {data.desc} </p>
+          </div>
+          
+      </div>
+   
+    </section>
+    </>
+  )}

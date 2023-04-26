@@ -143,14 +143,14 @@
         ,
         {"id": "fixe-5",
         "tyPet": "fixes",
-            "titlePet": "Peixe palhaço",
+            "titlePet": "Noiva",
             "desc": "Os gatos sao os melhores amigos do homem",
             "image": "/../public/fixes/fixe-5.jpg"
         },
 
         {"id": "fixe-6",
         "tyPet": "fixes",
-            "titlePet": "Peixe palhaço",
+            "titlePet": "Guarami",
             "desc": "Os gatos sao os melhores amigos do homem",
             "image": "/../public/fixes/fixe-6.jpg"
         },
@@ -243,7 +243,7 @@
         }  ,
         {"id": "passaro-3",
         "tyPet": "passaros",
-            "titlePet": "Papagayo",
+            "titlePet": "Celeste Azul",
             "desc": "Os gatos sao os melhores amigos do homem",
             "image": "/../public/passaros/passaro-3.jpg"
         }        ,

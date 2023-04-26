@@ -1,18 +1,13 @@
 import React from 'react'
-import Image from 'next/image';
+import { HeadHtml } from '@/src/components/elements/HeadH'
+import SingleAnimal from '@/src/components/animals/siglePage'
+import Link from 'next/link'
 const Animal = ({data}) => {
   return (
-    <section className='singlePage mt' >
-      <div className='container'>
-          <Image className='img' src={data.image} width={400} height={400} alt='im' />
-          <div className='desc'>
-            <h2> {data.titlePet} </h2>
-            <p> {data.desc} </p>
-          </div>
-          
-      </div>
-   
-    </section>
+     <>
+     
+       <SingleAnimal data={data} />
+     </>
    )   
 }
 
