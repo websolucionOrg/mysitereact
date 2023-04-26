@@ -156,19 +156,19 @@
         },
         {"id": "mause-1",
         "tyPet": "mauses",
-            "titlePet": "Peixe palhaço",
+            "titlePet": "RatoAzurim",
             "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta impedit voluptas asperiores doloribus blanditiis illum, recusandae ea inventore itaque esse, aliquid facere architecto natus nobis quod molestiae cupiditate! Non autem libero facere possimus in ipsam quisquam asperiores repellendus incidunt dignissimos.",
             "image": "/../public/mauses/mause-3.jpg"
         },
         {"id": "mause-2",
         "tyPet": "mauses",
-            "titlePet": "Peixe palhaço",
+            "titlePet": "Rato de Laboratório",
             "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta impedit voluptas asperiores doloribus blanditiis illum, recusandae ea inventore itaque esse, aliquid facere architecto natus nobis quod molestiae cupiditate! Non autem libero facere possimus in ipsam quisquam asperiores repellendus incidunt dignissimos.",
             "image": "/../public/mauses/mause-0.jpg"
         },
         {"id": "mause-3",
         "tyPet": "mauses",
-            "titlePet": "Peixe palhaço",
+            "titlePet": "Rato Domestico",
             "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta impedit voluptas asperiores doloribus blanditiis illum, recusandae ea inventore itaque esse, aliquid facere architecto natus nobis quod molestiae cupiditate! Non autem libero facere possimus in ipsam quisquam asperiores repellendus incidunt dignissimos.",
             "image": "/../public/mauses/mause-1.jpg"
         }
@@ -181,19 +181,19 @@
         },
         {"id": "mause-5",
         "tyPet": "mauses",
-            "titlePet": "Peixe palhaço",
+            "titlePet": "Rato Selvagem",
             "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta impedit voluptas asperiores doloribus blanditiis illum, recusandae ea inventore itaque esse, aliquid facere architecto natus nobis quod molestiae cupiditate! Non autem libero facere possimus in ipsam quisquam asperiores repellendus incidunt dignissimos.",
             "image": "/../public/mauses/mause-5.jpg"
         },
         {"id": "mause-6",
         "tyPet": "mauses",
-            "titlePet": "Peixe palhaço",
+            "titlePet": "Rato Merlim",
             "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta impedit voluptas asperiores doloribus blanditiis illum, recusandae ea inventore itaque esse, aliquid facere architecto natus nobis quod molestiae cupiditate! Non autem libero facere possimus in ipsam quisquam asperiores repellendus incidunt dignissimos.",
             "image": "/../public/mauses/mause-6.jpg"
         },
         {"id": "coelho-1",
         "tyPet": "coelhos",
-            "titlePet": "Lebre da Pradaria",
+            "titlePet": "Rato Tidrete",
             "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta impedit voluptas asperiores doloribus blanditiis illum, recusandae ea inventore itaque esse, aliquid facere architecto natus nobis quod molestiae cupiditate! Non autem libero facere possimus in ipsam quisquam asperiores repellendus incidunt dignissimos.",
             "image": "/../public/coelhos/coelho-1.jpg"
         },
