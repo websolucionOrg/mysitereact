@@ -12,7 +12,7 @@ const TypeAnimals = ({data}) => {
     
       {data.map((ev)=>(
         
-      <Link href={`/${ev.pet}`} className='card' > 
+      <Link href={`/animals/${ev.tyPet}/${ev.id}`} className='card' > 
         <h2>{ev.titlePet}</h2>
           <Image src={ev.image} alt={ev.id} width={400} height={400} />
          <div className='contIcon' ><GoEye className='view' /></div> 
