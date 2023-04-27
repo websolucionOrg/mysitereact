@@ -19,8 +19,7 @@ const Header = () => {
                </div>
             </nav>
             <div className='buttonsMobile'>
-             <Link href="/" passHref className='iconHome'> <FaHome  /> </Link>
-            <FaBars className='btnbars' />
+              <FaBars className='btnbars' />
             </div>
         </div>
     </header>
@@ -29,3 +28,9 @@ const Header = () => {
 
 export default Header
 
+const btn = document.querySelector(".btnbars")
+const navabar = document.querySelector("nav")
+
+btn.addEventListener("click", ()=>{
+    navabar.classList.toggle("active")
+})
