@@ -28,9 +28,3 @@ const Header = () => {
 
 export default Header
 
-const btn = document.querySelector(".btnbars")
-const navabar = document.querySelector("nav")
-
-btn.addEventListener("click", ()=>{
-    navabar.classList.toggle("active")
-})
