@@ -16,7 +16,9 @@
         @include function.responsive(789px)
             flex-direction: column
             gap: 1rem
-            nav
+            nav,
+                flex-direction: column
+                gap: 1rem
                 transform: translateX(1000px)
                 &.active
                     transform: translateX(0)
