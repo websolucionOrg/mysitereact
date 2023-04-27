@@ -1,10 +1,14 @@
+@use 'function'
 .footer
     display: flex
     align-content: center
     justify-content: space-between
     padding: 2rem
     background: #111
-
+    @include function.responsive(489px)
+        flex-direction: column
+        justify-content: center
+        gap: 1.3rem
     p
         font-size: 1.3rem
         color: #fff
