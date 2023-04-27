@@ -1,8 +1,8 @@
 import React from 'react'
 import Link from 'next/link'
 import { GiSittingDog } from "react-icons/gi";
-import { FaBars } from "react-icons/fa";
-import { GrHome} from 'react-icons/gr';
+import { FaBars, FaHome } from "react-icons/fa";
+
 const Header = () => {
   return (
     <header className='header'>
@@ -19,7 +19,7 @@ const Header = () => {
                </div>
             </nav>
             <div className='buttonsMobile'>
-             <Link href="/" passHref className='iconHome'> <GrHome  /> </Link>
+             <Link href="/" passHref className='iconHome'> <FaHome  /> </Link>
             <FaBars className='btnbars' />
             </div>
         </div>
