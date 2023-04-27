@@ -257,13 +257,13 @@
         "tyPet": "passaros",
             "titlePet": "Aragu",
             "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta impedit voluptas asperiores doloribus blanditiis illum, recusandae ea inventore itaque esse, aliquid facere architecto natus nobis quod molestiae cupiditate! Non autem libero facere possimus in ipsam quisquam asperiores repellendus incidunt dignissimos.",
-            "image": "/../public/passaros/passaro-5.jpg"
+            "image": "/passaros/passaro-5.jpg"
         }        ,
         {"id": "passaro-6",
         "tyPet": "passaros",
             "titlePet": "Mocho",
             "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta impedit voluptas asperiores doloribus blanditiis illum, recusandae ea inventore itaque esse, aliquid facere architecto natus nobis quod molestiae cupiditate! Non autem libero facere possimus in ipsam quisquam asperiores repellendus incidunt dignissimos.",
-            "image": "/../public/passaros/passaro-6.jpg"
+            "image": "/passaros/passaro-6.jpg"
         }
 
     ]
