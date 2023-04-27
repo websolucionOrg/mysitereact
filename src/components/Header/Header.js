@@ -19,7 +19,7 @@ const Header = () => {
                </div>
             </nav>
             <div className='buttonsMobile'>
-            <li> <Link href="/" passHref > <GrHome /> </Link> </li>
+             <Link href="/" passHref > <GrHome /> </Link>
             <FaBars className='btnbars' />
             </div>
         </div>
