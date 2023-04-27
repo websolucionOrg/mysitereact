@@ -1,7 +1,8 @@
 import React from 'react'
 import Link from 'next/link'
 import { GiSittingDog } from "react-icons/gi";
-
+import { FaBars } from "react-icons/fa";
+import { GrHome} from 'react-icons/gr';
 const Header = () => {
   return (
     <header className='header'>
@@ -17,6 +18,10 @@ const Header = () => {
                 <Link className='btn' href="/" passHref >Comprar</Link>
                </div>
             </nav>
+            <div className='buttonsMobile'>
+            <li> <Link href="/" passHref > <GrHome /> </Link> </li>
+            <FaBars className='btnbars' />
+            </div>
         </div>
     </header>
   )
