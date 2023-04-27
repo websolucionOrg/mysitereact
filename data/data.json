@@ -2,34 +2,34 @@
     "pets":[
         {
         "pet": "dogs",
-        "img": "/../public/dogs/dog-0.jpg",
+        "img": "/dogs/dog-0.jpg",
         "title": "Os Nossos Cães"
         },
         {
         "pet": "cats",
-        "img": "/../public/cates/cat-desc.jpg",
+        "img": "/cates/cat-desc.jpg",
         "title": "Os Nossos Gatos"
         },
 
         {
             "pet": "fixes",
-            "img": "/../public/fixes/fixe-0.jpg",
+            "img": "/fixes/fixe-0.jpg",
             "title": "Os Nossos Peixes"
         },
         {
             "pet": "mauses",
-            "img": "/../public/mauses/mause-1.jpg",
+            "img": "/mauses/mause-1.jpg",
             "title": "Os Nossos Ratos"
         },
         {
             "pet": "coelhos",
-            "img": "/../public/coelhos/coelho-0.jpg",
+            "img": "/coelhos/coelho-0.jpg",
             "title": "Os Nossos Coelhos"
         },
 
         {
                 "pet": "passaros",
-                "img": "/../public/passaros/passaro-0.jpg",
+                "img": "/passaros/passaro-0.jpg",
                 "title": "As Nossas Aves"
         }
 ],
@@ -38,52 +38,52 @@
             "tyPet": "dogs",
             "titlePet": "Pit Bull",
             "desc": "O Pitbull é uma raça de cães que inclui várias subespécies, incluindo o American Pit Bull Terrier, o Staffordshire Bull Terrier, o American Staffordshire Terrier, entre outros.",
-            "image": "/../public/dogs/dog-0.jpg"
+            "image": "/dogs/dog-0.jpg"
         },
         {"id": "dog-2",
         "tyPet": "dogs",
         "titlePet": "Bull Dog",
         "desc": "Esses cães têm um temperamento descontraído e adoram passar tempo com seus donos. Eles são conhecidos por serem muito sociáveis e carinhosos, mas também podem ser teimosos em sua personalidade.",
-        "image": "/../public/dogs/dog-2.jpg"
+        "image": "/dogs/dog-2.jpg"
     },
         {"id": "dog-3",
         "tyPet": "dogs",
         "titlePet": "Canish",
         "desc": "Os coes sao os melhores amigos do homem",
-        "image": "/../public/dogs/dog-3.jpg"
+        "image": "/dogs/dog-3.jpg"
     },
 
     {"id": "dog-4",
     "tyPet": "dogs",
     "titlePet": "Rottweiler",
     "desc": "Esta é uma raça de cão grande e poderosa, conhecida por sua lealdade e inteligência. Eles são excelentes cães de guarda, mas também podem ser gentis e carinhosos com suas famílias.",
-    "image": "/../public/dogs/dog-4.jpg"
+    "image": "/dogs/dog-4.jpg"
     },
     {"id": "dog-5",
     "tyPet": "dogs",
     "titlePet": "Pastor Alemão",
     "desc": "Esta raça é conhecida por sua inteligência e habilidade para trabalhar, tornando-os excelentes cães de serviço e de trabalho. Eles são corajosos, protetores e leais, mas também podem ser gentis e carinhosos com suas família.",
-    "image": "/../public/dogs/dog-5.jpg"
+    "image": "/dogs/dog-5.jpg"
     },
 
     {"id": "dog-6",
     "tyPet": "dogs",
     "titlePet": "Chihuahua",
     "desc": "Essa raça é conhecida por seu pequeno tamanho e personalidade animada. Eles são muito protetores de seus donos e podem ser teimosos em sua personalidade.",
-    "image": "/../public/dogs/dog-6.jpg"
+    "image": "/dogs/dog-6.jpg"
     },
         {"id": "cats-1",
         "tyPet": "cats",
             "titlePet": "British Shorthair",
             "desc": "O British Shorthair é uma raça de gato originária do Reino Unido que se caracteriza por sua pelagem curta e densa, cabeça arredondada e olhos grandes e redondos1. É uma raça muito popular em todo o mundo devido a sua personalidade tranquila e afetuosa. São gatos muito independentes e calmos, mas também gostam de brincar e interagir com seus donos.",
-            "image": "/../public/cates/cat-7.jpg"
+            "image": "/cates/cat-7.jpg"
         },
 
         {"id": "cats-2",
         "tyPet": "cats",
             "titlePet": "Sphynx",
             "desc": "O sphynx é uma raça muito dócil, pronto para receber e dar muito carinho. O gato sem pelo requer mais atenção do que a maioria das raças de gatos, afinal, ele é muito apegado à sua família humana. Mas não é só isso, a sua pele também requer cuidados. A pele do gato sphynx costuma ficar oleosa com muita facilidade.",
-            "image": "/../public/cates/cat-2.jpg"
+            "image": "/cates/cat-2.jpg"
         }
         ,
 
@@ -91,13 +91,13 @@
         "tyPet": "cats",
             "titlePet": "Siamese",
             "desc": "O gato siamês é uma raça de gato oriental que se caracteriza por seu corpo elegante e esbelto, sua cabeça marcadamente triangular e seus olhos azuis intensos1. É uma raça muito popular em todo o mundo devido a seu pelo suave e sedoso e sua personalidade carinhosa e leal. São gatos muito expressivos e leais a seus donos, com quem querem estar e pedir atenção.",
-            "image": "/../public/cates/cat-3.jpg"
+            "image": "/cates/cat-3.jpg"
         },
         {"id": "cats-4",
         "tyPet": "cats",
             "titlePet": "Gato Persa",
             "desc": "O Gato Persa é uma raça de gato originária do Irã que se caracteriza por sua pelagem longa e densa, cabeça arredondada e olhos grandes e redondos. É uma raça muito popular em todo o mundo devido a sua personalidade tranquila e afetuosa . São gatos muito independentes e calmos, mas também gostam de brincar e interagir com seus donos.",
-            "image": "/../public/cates/cat-4.jpg"
+            "image": "/cates/cat-4.jpg"
         },
         {"id": "cats-5",
         "tyPet": "cats",
@@ -123,7 +123,7 @@
         "tyPet": "fixes",
             "titlePet": "Nemo",
             "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta impedit voluptas asperiores doloribus blanditiis illum, recusandae ea inventore itaque esse, aliquid facere architecto natus nobis quod molestiae cupiditate! Non autem libero facere possimus in ipsam quisquam asperiores repellendus incidunt dignissimos.",
-            "image": "/../public/fixes/fixe-1.jpg"
+            "image": "/fixes/fixe-1.jpg"
         }
 
         ,
@@ -131,127 +131,127 @@
         "tyPet": "fixes",
             "titlePet": "Peixe palhaço",
             "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta impedit voluptas asperiores doloribus blanditiis illum, recusandae ea inventore itaque esse, aliquid facere architecto natus nobis quod molestiae cupiditate! Non autem libero facere possimus in ipsam quisquam asperiores repellendus incidunt dignissimos.",
-            "image": "/../public/fixes/fixe-3.jpg"
+            "image": "/fixes/fixe-3.jpg"
         }
         ,
         {"id": "fixe-4",
         "tyPet": "fixes",
             "titlePet": "Tilapia",
             "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta impedit voluptas asperiores doloribus blanditiis illum, recusandae ea inventore itaque esse, aliquid facere architecto natus nobis quod molestiae cupiditate! Non autem libero facere possimus in ipsam quisquam asperiores repellendus incidunt dignissimos.",
-            "image": "/../public/fixes/fixe-4.jpg"
+            "image": "/fixes/fixe-4.jpg"
         }
         ,
         {"id": "fixe-5",
         "tyPet": "fixes",
             "titlePet": "Noiva",
             "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta impedit voluptas asperiores doloribus blanditiis illum, recusandae ea inventore itaque esse, aliquid facere architecto natus nobis quod molestiae cupiditate! Non autem libero facere possimus in ipsam quisquam asperiores repellendus incidunt dignissimos.",
-            "image": "/../public/fixes/fixe-5.jpg"
+            "image": "/fixes/fixe-5.jpg"
         },
 
         {"id": "fixe-6",
         "tyPet": "fixes",
             "titlePet": "Guarami",
             "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta impedit voluptas asperiores doloribus blanditiis illum, recusandae ea inventore itaque esse, aliquid facere architecto natus nobis quod molestiae cupiditate! Non autem libero facere possimus in ipsam quisquam asperiores repellendus incidunt dignissimos.",
-            "image": "/../public/fixes/fixe-6.jpg"
+            "image": "/fixes/fixe-6.jpg"
         },
         {"id": "mause-1",
         "tyPet": "mauses",
             "titlePet": "RatoAzurim",
             "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta impedit voluptas asperiores doloribus blanditiis illum, recusandae ea inventore itaque esse, aliquid facere architecto natus nobis quod molestiae cupiditate! Non autem libero facere possimus in ipsam quisquam asperiores repellendus incidunt dignissimos.",
-            "image": "/../public/mauses/mause-3.jpg"
+            "image": "/mauses/mause-3.jpg"
         },
         {"id": "mause-2",
         "tyPet": "mauses",
             "titlePet": "Rato de Laboratório",
             "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta impedit voluptas asperiores doloribus blanditiis illum, recusandae ea inventore itaque esse, aliquid facere architecto natus nobis quod molestiae cupiditate! Non autem libero facere possimus in ipsam quisquam asperiores repellendus incidunt dignissimos.",
-            "image": "/../public/mauses/mause-0.jpg"
+            "image": "/mauses/mause-0.jpg"
         },
         {"id": "mause-3",
         "tyPet": "mauses",
             "titlePet": "Rato Domestico",
             "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta impedit voluptas asperiores doloribus blanditiis illum, recusandae ea inventore itaque esse, aliquid facere architecto natus nobis quod molestiae cupiditate! Non autem libero facere possimus in ipsam quisquam asperiores repellendus incidunt dignissimos.",
-            "image": "/../public/mauses/mause-1.jpg"
+            "image": "/mauses/mause-1.jpg"
         }
         ,
         {"id": "mause-4",
         "tyPet": "mauses",
             "titlePet": "Peixe palhaço",
             "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta impedit voluptas asperiores doloribus blanditiis illum, recusandae ea inventore itaque esse, aliquid facere architecto natus nobis quod molestiae cupiditate! Non autem libero facere possimus in ipsam quisquam asperiores repellendus incidunt dignissimos.",
-            "image": "/../public/mauses/mause-4.jpg"
+            "image": "/mauses/mause-4.jpg"
         },
         {"id": "mause-5",
         "tyPet": "mauses",
             "titlePet": "Rato Selvagem",
             "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta impedit voluptas asperiores doloribus blanditiis illum, recusandae ea inventore itaque esse, aliquid facere architecto natus nobis quod molestiae cupiditate! Non autem libero facere possimus in ipsam quisquam asperiores repellendus incidunt dignissimos.",
-            "image": "/../public/mauses/mause-5.jpg"
+            "image": "/mauses/mause-5.jpg"
         },
         {"id": "mause-6",
         "tyPet": "mauses",
             "titlePet": "Rato Merlim",
             "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta impedit voluptas asperiores doloribus blanditiis illum, recusandae ea inventore itaque esse, aliquid facere architecto natus nobis quod molestiae cupiditate! Non autem libero facere possimus in ipsam quisquam asperiores repellendus incidunt dignissimos.",
-            "image": "/../public/mauses/mause-6.jpg"
+            "image": "/mauses/mause-6.jpg"
         },
         {"id": "coelho-1",
         "tyPet": "coelhos",
             "titlePet": "Rato Tidrete",
             "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta impedit voluptas asperiores doloribus blanditiis illum, recusandae ea inventore itaque esse, aliquid facere architecto natus nobis quod molestiae cupiditate! Non autem libero facere possimus in ipsam quisquam asperiores repellendus incidunt dignissimos.",
-            "image": "/../public/coelhos/coelho-1.jpg"
+            "image": "/coelhos/coelho-1.jpg"
         },
         {"id": "coelho-2",
         "tyPet": "coelhos",
             "titlePet": "Coelho dos Monteso",
             "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta impedit voluptas asperiores doloribus blanditiis illum, recusandae ea inventore itaque esse, aliquid facere architecto natus nobis quod molestiae cupiditate! Non autem libero facere possimus in ipsam quisquam asperiores repellendus incidunt dignissimos.",
-            "image": "/../public/coelhos/coelho-0.jpg"
+            "image": "/coelhos/coelho-0.jpg"
         },
         {"id": "coelho-3",
         "tyPet": "coelhos",
             "titlePet": "Coelho Arupador",
             "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta impedit voluptas asperiores doloribus blanditiis illum, recusandae ea inventore itaque esse, aliquid facere architecto natus nobis quod molestiae cupiditate! Non autem libero facere possimus in ipsam quisquam asperiores repellendus incidunt dignissimos.",
-            "image": "/../public/coelhos/coelho-3.jpg"
+            "image": "/coelhos/coelho-3.jpg"
         }
         ,
         {"id": "coelho-4",
         "tyPet": "coelhos",
             "titlePet": "Coelho Irlandes",
             "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta impedit voluptas asperiores doloribus blanditiis illum, recusandae ea inventore itaque esse, aliquid facere architecto natus nobis quod molestiae cupiditate! Non autem libero facere possimus in ipsam quisquam asperiores repellendus incidunt dignissimos.",
-            "image": "/../public/coelhos/coelho-4.jpg"
+            "image": "/coelhos/coelho-4.jpg"
         }        ,
         {"id": "coelho-5",
         "tyPet": "coelhos",
             "titlePet": "Coelho Chines",
             "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta impedit voluptas asperiores doloribus blanditiis illum, recusandae ea inventore itaque esse, aliquid facere architecto natus nobis quod molestiae cupiditate! Non autem libero facere possimus in ipsam quisquam asperiores repellendus incidunt dignissimos.",
-            "image": "/../public/coelhos/coelho-5.jpg"
+            "image": "/coelhos/coelho-5.jpg"
         }        ,
         {"id": "coelho-6",
         "tyPet": "coelhos",
             "titlePet": "Coelho dos Alpes",
             "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta impedit voluptas asperiores doloribus blanditiis illum, recusandae ea inventore itaque esse, aliquid facere architecto natus nobis quod molestiae cupiditate! Non autem libero facere possimus in ipsam quisquam asperiores repellendus incidunt dignissimos.",
-            "image": "/../public/coelhos/coelho-6.jpg"
+            "image": "/coelhos/coelho-6.jpg"
         }
         ,
         {"id": "passaro-1",
         "tyPet": "passaros",
             "titlePet": "Beja-flor",
             "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta impedit voluptas asperiores doloribus blanditiis illum, recusandae ea inventore itaque esse, aliquid facere architecto natus nobis quod molestiae cupiditate! Non autem libero facere possimus in ipsam quisquam asperiores repellendus incidunt dignissimos.",
-            "image": "/../public/passaros/passaro-1.jpg"
+            "image": "/passaros/passaro-1.jpg"
         }        ,
         {"id": "passaro-2",
         "tyPet": "passaros",
             "titlePet": "Papagayo",
             "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta impedit voluptas asperiores doloribus blanditiis illum, recusandae ea inventore itaque esse, aliquid facere architecto natus nobis quod molestiae cupiditate! Non autem libero facere possimus in ipsam quisquam asperiores repellendus incidunt dignissimos.",
-            "image": "/../public/passaros/passaro-0.jpg"
+            "image": "/passaros/passaro-0.jpg"
         }  ,
         {"id": "passaro-3",
         "tyPet": "passaros",
             "titlePet": "Celeste Azul",
             "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta impedit voluptas asperiores doloribus blanditiis illum, recusandae ea inventore itaque esse, aliquid facere architecto natus nobis quod molestiae cupiditate! Non autem libero facere possimus in ipsam quisquam asperiores repellendus incidunt dignissimos.",
-            "image": "/../public/passaros/passaro-3.jpg"
+            "image": "/passaros/passaro-3.jpg"
         }        ,
         {"id": "passaro-4",
         "tyPet": "passaros",
             "titlePet": "Pardal",
             "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta impedit voluptas asperiores doloribus blanditiis illum, recusandae ea inventore itaque esse, aliquid facere architecto natus nobis quod molestiae cupiditate! Non autem libero facere possimus in ipsam quisquam asperiores repellendus incidunt dignissimos.",
-            "image": "/../public/passaros/passaro-4.jpg"
+            "image": "/passaros/passaro-4.jpg"
         }        ,
         {"id": "passaro-5",
         "tyPet": "passaros",
